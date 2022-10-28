@@ -1,0 +1,29 @@
+.formHeading{
+    background-color: rgb(21, 78, 13);
+    padding: 20px;
+    margin: 0px;
+    color: white;
+    font-weight: lighter;
+}
+body{
+    margin: 0px;
+}
+form{
+    margin-left: 15px;
+}
+button{
+    background-color: rgb(21, 78, 13);
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    border-style: none;
+}
+b{
+    color: rgb(252, 5, 5);
+}
+div{
+    margin-bottom: 20px;
+}
+input{
+    padding: 5px;
+}

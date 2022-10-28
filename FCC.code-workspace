@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\FCC"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Assignment1"
+	}
+}
